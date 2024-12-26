@@ -16,8 +16,8 @@ def get_articles():
     try:
         # List of keywords to search for
         search_keywords_list = [
-            "cyber security", "scam", "cyber", "digital", "ai", "crime", "hack", "quantum", "scammer", "victim", "money",
-            "ransomware", "nric", "data", "breach", "password", "malware", "vulnerability", "CSA"
+            "cyber", "cybersecurity", "cyberattack", "cybercrime", "scam", "scammer", "hack",
+            "ransomware", "data", "password", "malware", "CSA"
         ]
 
         articles = {}
